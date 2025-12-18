@@ -55,5 +55,11 @@ This project investigates semantic control in generative models by manipulating 
 - Linear classifiers are effective tools for discovering meaningful directions in high-dimensional latent spaces.
 - Proper normalization is critical for stable and interpretable latent manipulation.
 
-## Author
-**Osman Baha Sert**  
+Original Image to Z-space manipulated image, and OG to Z-space manipulated image difference gifs:
+Z:
+![OG_to_Zlogreg](https://github.com/user-attachments/assets/8019ca89-f6fb-425e-a113-b232236cd57c)
+W:
+![OG_to_Wlogreg](https://github.com/user-attachments/assets/c591048f-28ae-4dcf-b53a-da7553700105)
+
+
+
